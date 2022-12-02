@@ -1,3 +1,7 @@
+"""
+Stage: Development 1
+@author: Ghassan Barmada 120202001
+@author: Burak Seymen 117202076
 from bs4 import BeautifulSoup
 import requests
 
